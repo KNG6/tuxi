@@ -1,6 +1,8 @@
 # Tuxi
 
 Tuxi is a simple bash script which scrape google search for getting instant answers of your question on your terminal.
+(ceci est en fork pour les français voulant utiliser de script)
+
 
 [Watch this Video Please](https://www.youtube.com/watch?v=EtwWvMa8muU)
 > Also checkout my youtube channel for more scripts like this
